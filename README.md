@@ -29,6 +29,8 @@ Created by **Group 9** ([see team members](#authors)) **- Class NT106.Q13**, thi
 
 - Challenge and play matches with friends
 
+- Match history : view played matches including result, opponent name & avatar, duration
+
 - Avatar selection from a predefined list 
 
 - Integrated in-game audio with adjustable volume
