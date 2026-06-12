@@ -20,7 +20,7 @@ Created by **Group 9** ([see team members](#authors)) **- Class NT106.Q13**, thi
 > [!WARNING]
 > As of **December 31th, 2025**, the _Gomoku_ project has been archived. This means that it will no longer receive bug fixes, patches, etc.
 
-## UI Demo
+
 
 | Home Page (T1) | Home Page (Gen.G) |
 | --- | --- |
