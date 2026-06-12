@@ -25,8 +25,8 @@ Created by **Group 9** ([see team members](#authors)) **- Class NT106.Q13**, thi
 | Home Page (T1) | Home Page (Gen.G) |
 | --- | --- |
 | <img src="assets/home-page-t1.png" alt="Home page T1" width="100%"> | <img src="assets/home-page-geng.png" alt="Home page Gen.G" width="100%"> |
-| Home Page (HLE) | Match Finding Page |
-| <img src="assets/home-page-hle.png" alt="Home page HLE" width="100%"> | <img src="assets/match-finding-page.png" alt="Match finding page" width="100%"> |
+| **Match Finding** | **Gameplay** |
+| <img src="assets/match-finding-page.png" alt="Match Finding" width="100%"> | <img src="assets/gameplay.jpg" alt="Gameplay" width="100%"> |
 
 ## Main Features
 - Online Gomoku gameplay
