@@ -10,6 +10,8 @@
   <sub><i>(In casual Vietnamese conversation, this game is known as <b>Caro</b>.)</i></sub><br>
 </p>
 
+
+
 ## About
 This application was built as a final project for the **Network Programming (NT106)** course at the **University of Information Technology (UIT)**.
 
@@ -17,6 +19,14 @@ Created by **Group 9** ([see team members](#authors)) **- Class NT106.Q13**, thi
 
 > [!WARNING]
 > As of **December 31th, 2025**, the _Gomoku_ project has been archived. This means that it will no longer receive bug fixes, patches, etc.
+
+
+
+| Home Page (T1) | Home Page (Gen.G) |
+| --- | --- |
+| <img src="assets/home-page-t1.png" alt="Home page T1" width="100%"> | <img src="assets/home-page-geng.png" alt="Home page Gen.G" width="100%"> |
+| **Match Finding** | **Gameplay** |
+| <img src="assets/match-finding-page.png" alt="Match Finding" width="100%"> | <img src="assets/gameplay.jpg" alt="Gameplay" width="100%"> |
 
 ## Main Features
 - Online Gomoku gameplay
@@ -28,6 +38,8 @@ Created by **Group 9** ([see team members](#authors)) **- Class NT106.Q13**, thi
 - Friend system : add friends and view friend list
 
 - Challenge and play matches with friends
+
+- Match history : view played matches including result, opponent name & avatar, duration
 
 - Avatar selection from a predefined list 
 
